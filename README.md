@@ -1,2 +1,2 @@
 # address_clustering
- Small project for address points clustering usgin their latitude and longitude
+ Small project for address points clustering using their latitude and longitude
